@@ -8,4 +8,4 @@ Online features are powered in part by Epic Online Services.
 
 ## Privacy
 
-[Privacy Policy](/privacy.md)
+[Privacy Policy](/privacy.html)
